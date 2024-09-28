@@ -1,0 +1,2 @@
+generate host format:
+  nix run github:nix-community/nixos-generators -- --flake ~/repo/dotfiles#{{host}} -f {{format}}
