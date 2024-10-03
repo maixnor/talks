@@ -1,0 +1,4 @@
+# cannot be uncached easily
+check:
+  nix flake check -L
+
