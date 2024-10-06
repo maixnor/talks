@@ -11,30 +11,7 @@
     pkgs = import nixpkgs { inherit system; };
 
     # We need to build PostgreSQL 8.4 from source since it's deprecated
-    postgres84 = pkgs.stdenv.mkDerivation rec {
-      pname = "postgresql";
-      version = "8.4.22";
-
-      src = pkgs.fetchurl {
-        url = "https://ftp.postgresql.org/pub/source/v${version}/postgresql-${version}.tar.bz2";
-        sha256 = "sha256-XB1WzndEhwbZ3QOyiWrxnZqxubjc25bDlwfHRnXKOCY=";
-      };
-
-      nativeBuildInputs = [ pkgs.bison pkgs.flex ];
-      buildInputs = [ pkgs.zlib ];
-
-      configureFlags = [ 
-        # without openssl, did not get that to build
-        # "--with-openssl"
-        "--with-zlib" 
-        "--without-readline" 
-      ];
-
-      installPhase = ''
-        make install DESTDIR=$out
-      '';
-    };
-
+    postgres84 = import ./postgres84;
   in {
     devShells.default = pkgs.mkShell {
       packages = [
