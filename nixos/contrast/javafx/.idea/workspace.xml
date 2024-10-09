@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b7dbe7-8114-4b7f-ad43-65bba7a44ea4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../NixOs Talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../NixOs Talk.md" afterDir="false" />
+    <list default="true" id="c59faacb-0f3d-49e3-94ca-20b5d22b697b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/com/maixnor/javafx/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/com/maixnor/javafx/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javafx/src/main/resources/com/maixnor/javafx/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,49 +29,55 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "maixnor"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maixnor&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/maixnor/talks.git",
-    "accountId": "2d21b402-722e-4dd5-991c-f46d9e589ba3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maixnor/talks.git&quot;,
+    &quot;accountId&quot;: &quot;2d21b402-722e-4dd5-991c-f46d9e589ba3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
-  <component name="ProjectId" id="2n440VDOtNKZL7NANkjBkooPwl2" />
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2n44e1qEmzkGC452CCWXEnu6GDx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HelloWorld.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/maixnor/repo/talks/nixos/contrast/javafx",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/maixnor/repo/talks/nixos/contrast/AsciidocFX-1.0.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloworld.HelloWorld" />
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maixnor.javafx.HelloApplication" />
       <module name="legacy-javafx-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="helloworld.*" />
+          <option name="PATTERN" value="com.maixnor.javafx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,7 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.HelloApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -82,12 +102,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5b7dbe7-8114-4b7f-ad43-65bba7a44ea4" name="Changes" comment="" />
-      <created>1728218791461</created>
+      <changelist id="c59faacb-0f3d-49e3-94ca-20b5d22b697b" name="Changes" comment="" />
+      <created>1728219108150</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728218791461</updated>
-      <workItem from="1728218792474" duration="316000" />
+      <updated>1728219108150</updated>
+      <workItem from="1728219109163" duration="65000" />
+      <workItem from="1728241952740" duration="590000" />
+      <workItem from="1728442809853" duration="710000" />
+      <workItem from="1728444375508" duration="2160000" />
     </task>
     <servers />
   </component>
