@@ -244,7 +244,7 @@ the result should be instantly visible, there may not be a list I have to scan f
 
 ---
 # Gherkin Syntax
-![[Pasted image 20230920042425.png]]
+![[automation_bdd_scenario.png]]
 
 notes:
 gherkin allows to define test requirements in spoken language
