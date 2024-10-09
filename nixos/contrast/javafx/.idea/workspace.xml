@@ -6,20 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c59faacb-0f3d-49e3-94ca-20b5d22b697b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/com/maixnor/javafx/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/com/maixnor/javafx/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx/src/main/resources/com/maixnor/javafx/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +97,7 @@
       <workItem from="1728219109163" duration="65000" />
       <workItem from="1728241952740" duration="590000" />
       <workItem from="1728442809853" duration="710000" />
-      <workItem from="1728444375508" duration="2160000" />
+      <workItem from="1728444375508" duration="3063000" />
     </task>
     <servers />
   </component>
